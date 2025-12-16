@@ -1,0 +1,8 @@
+[2025-12-16T12:15:37.507Z] GET / - IP: ::1
+[2025-12-16T12:15:37.526Z] GET / - 404 - 19ms
+[2025-12-16T12:15:45.282Z] GET /users - IP: ::1
+[2025-12-16T12:15:45.289Z] GET /users - 304 - 7ms
+[2025-12-16T12:16:00.629Z] GET /health - IP: ::1
+[2025-12-16T12:16:00.635Z] GET /health - 304 - 6ms
+[2025-12-16T15:23:28.617Z] [INFO] Server running on http://localhost:3000
+[2025-12-16T15:23:28.630Z] [INFO] Environment: development
